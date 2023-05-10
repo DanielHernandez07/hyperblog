@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+main {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.principal{
+    background-color: grey;
+    display: inline-block;
+}
+
+#cabeza{
+    font-size: 1.8rem;
+    background-color: hotpink;
+    display: inline-block;
+    position: relative;
+    left: 32%;
+    top: 4.1rem;
+    padding: 2.8rem;
+    border-radius: 2rem;
+}
+
+#cuerpo {
+    font-size: 1.6rem;
+    background-color: khaki;
+    display: inline-block;
+    border: 0.2rem lawngreen solid;
+    padding: 6rem;
+    margin: 0rem 3rem 6rem 3rem;
+    line-height: calc(1.7rem + 20%);
+    border-radius: 2.6rem;
+}

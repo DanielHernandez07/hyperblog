@@ -1,0 +1,205 @@
+.sub-title{
+    color: darksalmon;
+    font-size: 30px;
+}
+.name{
+    color: pink;
+    font-size: 70px;
+    outline-style: dashed;
+}
+#text-question{
+    color: darkcyan;
+    font-size: 35px;
+}
+#little{
+    color: darksalmon;
+    font-size: 20px; font-style: oblique; 
+}
+
+
+.personality{
+    color: darkcyan;
+    font-size: 25px; 
+    font-style: unset; 
+    border-left-style: initial;
+    list-style:circle;
+}
+.beauty{
+    color: darkcyan;
+    font-size: 25px; 
+    font-style: unset; 
+    border-left-style: initial;
+    list-style: circle;
+}
+#list-personality{
+    color: darksalmon;
+    font-size: 20px; 
+    font-style: italic; 
+    list-style: none;
+    
+}
+.p1{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+    
+}
+/*.p1 a{
+    text-decoration: none;
+}*/
+.p1 a:hover{
+    color: pink;
+}
+
+.p2{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+   
+}
+/*.p2 a{
+    text-decoration: none;
+}*/
+.p2 a:hover{
+    color: pink;
+}
+.p3{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+    
+}
+/*.p3 a{
+    text-decoration: none;
+}*/
+.p3 a:hover{
+    color: pink;
+}
+.p4{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+    
+}
+/*.p4 a{
+    text-decoration: none;
+}*/
+.p4 a:hover{
+    color: pink;
+}
+.p5{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+    
+}
+/*.p5 a{
+    text-decoration: none;
+}*/
+.p5 a:hover{
+    color: pink;
+}
+
+
+
+
+#list-beauty{
+    color: darksalmon;
+    font-size: 20px; 
+    font-style: italic; 
+    list-style: none;
+}
+.b1{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+    
+}
+/*.b1 a{
+    text-decoration: none;
+}*/
+.b1 a:hover{
+    color: pink; 
+}
+.b2{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+    
+}
+/*.b2 a{
+    text-decoration: none;
+}*/
+.b2 a:hover{
+    color: pink; 
+}
+.b3{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+   
+}
+/*.b3 a{
+    text-decoration: none;
+}*/
+.b3 a:hover{
+    color: pink; 
+}
+.b4{
+
+    font-size: 30px;
+    margin-top: 10 px ;
+    
+}
+/*.b4 a{
+    text-decoration: none;
+}*/
+.b4 a:hover{
+    color: pink; 
+}
+
+
+
+.frase{
+    color: lightpink;
+    font-size: 40px; 
+    font-style: calc(7); 
+    transform-style: preserve-3d;
+    padding-left: 0;
+}
+#margen{
+    color: pink;
+    outline-style: dashed;
+}
+.minnie{
+    color: palevioletred;
+   font-size: 28px;
+}
+.carro{
+    color: palevioletred;
+   font-size: 28px;
+}
+.closet{
+    color: palevioletred;
+   font-size: 28px;
+}
+.viaje{
+    color: palevioletred;
+   font-size: 28px;
+}
+#tema{
+    color: darkolivegreen;
+    font-size: 28px;
+    outline-style: dashed;
+}
+.main{
+    color:pink;
+    outline-style: dashed;
+}
+.list{
+    color:pink;
+    outline-style: dashed;
+}
+.jdhu{
+    background-color: aquamarine;
+}
